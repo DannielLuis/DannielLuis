@@ -1,3 +1,5 @@
+<div style="display: flex; flex-direction: column;  background-image: url('https://aasanticioli.github.io/assets/images/background/background.jpg'); background-repeat: no-repeat; background-attachment: fixed; padding:  40px; overflow: hidden;">
+
 # Daniel Luis
 Olá! Eu sou o Daniel Luis, seja bem vindo ao meu GitHub Profile!
 
@@ -22,3 +24,4 @@ Olá! Eu sou o Daniel Luis, seja bem vindo ao meu GitHub Profile!
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DannielLuis&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars)
 
+</div>
