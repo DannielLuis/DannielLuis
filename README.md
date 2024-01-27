@@ -1,6 +1,7 @@
 <div style="display: flex; flex-direction: column;  background-image: url('./imagem/background.jpg'); background-repeat: no-repeat; background-attachment: fixed; padding:  40px; overflow: hidden;">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=30A3DC&height=120&section=header"/>
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/97841160/263562401-9669836f-60c9-4239-87bb-5d8f7d60f008.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 # Daniel Luis
 Olá! Eu sou o Daniel Luis, seja bem vindo ao meu GitHub Profile!
