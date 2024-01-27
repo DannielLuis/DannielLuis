@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: column;  background-image: url('imagem/background.jpg'); background-repeat: no-repeat; background-attachment: fixed; padding:  40px; overflow: hidden;">
+<div style="display: flex; flex-direction: column;  background-image: url('./imagem/background.jpg'); background-repeat: no-repeat; background-attachment: fixed; padding:  40px; overflow: hidden;">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=30A3DC&height=120&section=header"/>
 
